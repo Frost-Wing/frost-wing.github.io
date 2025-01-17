@@ -1,1 +1,18 @@
-@import "darkmode";
+// _darkmode.scss
+
+// Body background color
+body {
+    background-color: #222;
+}
+
+// Text color
+h1, h2, h3, p {
+    color: #fff;
+}
+
+// Link color
+a {
+    color: #ffcc00;
+}
+
+// Additional dark mode styles...
